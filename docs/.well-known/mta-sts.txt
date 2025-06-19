@@ -1,4 +1,5 @@
 version: STSv1
 mode:    testing
-mx:      mail.webstays.com
+mx:      hotelaroundtown-com.mail.protection.outlook.com
 max_age: 86400
+
